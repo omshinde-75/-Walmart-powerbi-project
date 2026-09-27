@@ -5,7 +5,9 @@
 ![DAX](https://img.shields.io/badge/DAX-005288?style=for-the-badge)
 
 ## 📌 Introduction
-Welcome to the **Walmart Market Business Intelligence Dashboard** project! This repository contains an end-to-end data analytics solution built using **Microsoft Power BI**. The dashboard provides dynamic and insight-driven business intelligence for Walmart Market, a multinational retail giant, analyzing operations across **Canada, Mexico, and the United States**.
+Welcome to the **Walmart Market Business Intelligence Dashboard** project! This repository contains an end-to-end data analytics solution built using **Microsoft Power BI**. The dashboard provides dynamic and insight-driven business intelligence for Walmart Market, a multinational retail giant, analyzing operations across **
+
+Canada, Mexico, and the United States**.
 
 By transforming complex transactional data into interactive visual stories, this project empowers executive decision-makers to quickly gauge regional performance, product brand profitability, and overall revenue trends.
 
@@ -29,17 +31,8 @@ The primary goal of this project is to simulate real-time market reporting by ad
 
 ## 📸 Dashboard Previews
 
-### 1. Executive Summary
+### Executive Summary
 ![Dashboard 1](Dashboard%201.jpg)
-
-### 2. Regional Performance Map
-![Dashboard 2](Dashboard%202.jpg)
-
-### 3. Product & Brand Analysis
-![Dashboard 3](Dashboard%203.jpg)
-
-### 4. Details & Metrics
-![Dashboard 4](Dashboard%204.jpg)
 
 ---
 
